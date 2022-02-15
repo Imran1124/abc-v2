@@ -1,6 +1,6 @@
 {
-  "name": "abc-client",
-  "version": "2.3.0",
+  "name": "abc-client-v2",
+  "version": "0.1.0",
   "description": "abc-client",
   "private": true,
   "dependencies": {
